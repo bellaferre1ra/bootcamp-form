@@ -1,0 +1,14 @@
+@import "~@andes/form/index";
+@import "~@andes/textfield/index";
+@import '~@andes/dropdown/index';
+@import '~@andes/list/index';
+@import '~@andes/radio-button';
+@import '~@andes/button/index';
+
+
+p {
+    font-size: 14px;
+    font-family: "Proxima Nova", -apple-system, "Roboto", Arial, sans-serif;    
+    margin-left: 8px;
+    color: rgba(0, 0, 0, 0.9);
+}
